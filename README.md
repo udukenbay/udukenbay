@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @udukenbay
-- 👀 I’m interested in Vue, React & in Leetcode problems
+- 👀 I’m interested in Vue, React & in Leetcode problems, but also GoLang
 - 🌱 I’m currently learning Vue from Loftschool
 - 💞️ I’m looking to collaborate on new interesting projects I can be involved
 - 📫 How to reach me: 
